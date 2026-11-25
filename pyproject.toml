@@ -11,6 +11,7 @@ dependencies = [
     "clear>=2.0.0",
     "jupyter>=1.1.1",
     "matplotlib>=3.11.2",
+    "pylatexenc>=2.11",
     "qiskit>=2.6.2",
     "qiskit-ibm-runtime>=0.52.1",
 ]
